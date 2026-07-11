@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heupbovenbeen.net/sitemap.xml
